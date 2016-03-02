@@ -1,3 +1,24 @@
+* Priority
+
+** Vegetable/fruit peels
+** Egg shells
+** Chicken/fish bones
+** Food leftovers
+
+** Fallen leaves/twigs
+** Puja flowers/garlands
+
+** Pizza boxes
+** Metal cans (foil containers would be better... but harder to draw, maybe?)
+** Unbroken glass bottles
+
+** Batteries
+** Bulbs/CFLs
+
+** Diapers/Sanitary napkins
+** Used syringes
+** Broken glass
+
 * Items
 
 ** Wet/Organic Waste
@@ -31,8 +52,8 @@
 - Cosmetics
 - Ceramics
 - Wooden Chips
-- Hair	
-- Coconut shells	
+- Hair
+- Coconut shells
 
 ** E-Waste
 - Batteries
@@ -62,4 +83,4 @@
 - Razors/Blades
 - Used syringes
 - Injection vials
-- Broken glass 
+- Broken glass
