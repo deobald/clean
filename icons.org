@@ -1,0 +1,18 @@
+** Icon Designs
+
+We have come up with two styles for the icons.  Both styles are
+tentative and can be modified as you choose.  We have down played the
+details on shaded versions a bit since we were uncertain which style
+would suit better.  Please have a look and let us know what your thoughts
+are.
+
+*** Style 1
+
+Minimalistic details.
+Just enough strokes to convey the details.
+
+Coloured version has plain colours.
+
+#+CAPTION: Minimal
+#+NAME:   fig:Style 1
+[[./style-1.png]]
