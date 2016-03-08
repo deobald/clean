@@ -13,6 +13,14 @@ Just enough strokes to convey the details.
 
 Coloured version has plain colours.
 
-#+CAPTION: Minimal
-#+NAME:   fig:Style 1
 [[./style-1.png]]
+
+*** Style 2
+
+
+Thick strokes define the outer shape. Thinner lines and dither pattern used for inner details.
+
+Coloured versions are rendered as stickers.
+
+[[./style-2.png]]
+[[./sticker-style.png]]
