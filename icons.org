@@ -24,3 +24,9 @@ Coloured versions are rendered as stickers.
 
 [[./style-2.png]]
 [[./sticker-style.png]]
+
+*** Style 3
+
+Gradients as fill and thick outer strokes used to define the shape. Anthropomorphised for a cute look.
+
+[[./style-3.png]] 
