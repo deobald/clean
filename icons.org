@@ -28,5 +28,5 @@ Coloured versions are rendered as stickers.
 *** Style 3
 
 Gradients as fill and thick outer strokes used to define the shape. Anthropomorphised for a cute look.
-
-[[./style-3.png]] 
+[[./style-3.png]]
+[[./style-3-sticker.png]]
